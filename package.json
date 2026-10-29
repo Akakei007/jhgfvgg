@@ -1,0 +1,14 @@
+{
+  "name": "ritual-services",
+  "version": "1.0.0",
+  "description": "Контрольная точка: Sequelize, Category 1:N Service",
+  "main": "queries.js",
+  "scripts": {
+    "seed": "node seed.js",
+    "queries": "node queries.js"
+  },
+  "dependencies": {
+    "sequelize": "^6.37.0",
+    "sqlite3": "^5.1.7"
+  }
+}
